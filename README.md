@@ -56,7 +56,7 @@ UI Design on Figma: <https://www.figma.com/design/M5MZoDvmRtLWBkUDZj8e2Z/Lyrifix
 
 ## Presentation Slide
 
-Slide on Figma: <https://figma.com/slides/...>
+Slide on Figma: <https://www.figma.com/deck/hHIFOHlTRSomEMQttaZaDJ/Lyrifix-Presentation-Slide?node-id=4177-20&t=8f3VEVQL9ypuH0lW-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1>
 
 ## Inspirations
 
